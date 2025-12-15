@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Dreaming",
+  "base_artist": "リー",
+  "createdAt": "2025-12-15T06:26:25.183118Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dreaming My Dreams With You",
+      "artist": "Waylon Jennings",
+      "has_synced": true,
+      "path": "select/01_Dreaming_My_Dreams_With_You_Waylon_Jennings.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dreaming with My Eyes Open",
+      "artist": "Clay Walker",
+      "has_synced": true,
+      "path": "select/02_Dreaming_with_My_Eyes_Open_Clay_Walker.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tell Me I Was Dreaming",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/03_Tell_Me_I_Was_Dreaming_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Waking Up Dreaming",
+      "artist": "Shania Twain",
+      "has_synced": true,
+      "path": "select/04_Waking_Up_Dreaming_Shania_Twain.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dreaming of You",
+      "artist": "The Coral",
+      "has_synced": true,
+      "path": "select/05_Dreaming_of_You_The_Coral.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dreaming Of You",
+      "artist": "The Coral",
+      "has_synced": true,
+      "path": "select/06_Dreaming_Of_You_The_Coral.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Must Be Dreaming",
+      "artist": "Frou Frou",
+      "has_synced": true,
+      "path": "select/07_Must_Be_Dreaming_Frou_Frou.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Must Be Dreaming (Album Version)",
+      "artist": "Frou Frou",
+      "has_synced": true,
+      "path": "select/08_Must_Be_Dreaming_(Album_Version)_Frou_Frou.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dreaming",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/09_Dreaming_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "If I'm Dreaming My Life",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/10_If_I'm_Dreaming_My_Life_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "If I’m Dreaming My Life",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/11_If_I’m_Dreaming_My_Life_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Asleep and Dreaming",
+      "artist": "The Magnetic Fields",
+      "has_synced": false,
+      "path": "select/12_Asleep_and_Dreaming_The_Magnetic_Fields.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Day Dreaming",
+      "artist": "Marie Davidson",
+      "has_synced": false,
+      "path": "select/13_Day_Dreaming_Marie_Davidson.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dreaming",
+      "artist": "Mayer Hawthorne",
+      "has_synced": true,
+      "path": "select/14_Dreaming_Mayer_Hawthorne.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Fever Dreaming",
+      "artist": "No Age",
+      "has_synced": true,
+      "path": "select/15_Fever_Dreaming_No_Age.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Dreaming",
+      "artist": "Orchestral Manoeuvres In the Dark",
+      "has_synced": false,
+      "path": "select/16_Dreaming_Orchestral_Manoeuvres_In_the_Dark.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Dreaming",
+      "artist": "Orchestral Manoeuvres In The Dark",
+      "has_synced": true,
+      "path": "select/17_Dreaming_Orchestral_Manoeuvres_In_The_Dark.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dreaming Out Loud",
+      "artist": "Leigh Nash",
+      "has_synced": false,
+      "path": "select/pl_01_Dreaming_Out_Loud_Leigh_Nash.txt"
+    }
+  ]
+}
